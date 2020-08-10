@@ -111,7 +111,6 @@ git clone https://github.com/thehappydinoa/fsociety.git
 cd fsociety && python fsociety.py
 ```
 
-Follow This Video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ&t=160s)
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
@@ -160,4 +159,4 @@ docker-compose down
 
 # License
 
-[MIT Licence](https://github.com/thehappydinoa/fsociety/blob/master/LICENSE)
+[MIT Licence](https://github.com/fu8uk1/fsociety/blob/master/LICENSE)
